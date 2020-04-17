@@ -4,3 +4,8 @@ public String greet()
    return "hello world";
 
 }
+
+public void newMethod(){
+
+system.out.println("Say Hi!);
+}
